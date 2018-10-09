@@ -210,7 +210,6 @@
     <Folder Include="Scripts\Angular5\food-management\src\app\pipes\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include=".gitignore" />
     <None Include="packages.config" />
     <Content Include="Views\Recipe\Index.cshtml" />
     <Content Include="Scripts\Angular5\package-lock.json" />
